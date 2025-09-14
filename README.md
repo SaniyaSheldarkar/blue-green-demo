@@ -140,7 +140,7 @@ Visit 👉 [http://localhost:8080](http://localhost:8080)
 ## 🙌 Author
 
 Made with 💡 by **Saniya Sheldarkar**
-Connect with me on [LinkedIn](https://www.linkedin.com/)
+Connect with me on [LinkedIn](linkedin.com/in/saniya-sheldarkar)
 
 ---
 
